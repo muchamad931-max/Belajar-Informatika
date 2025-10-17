@@ -72,7 +72,7 @@
   </section>
 
   <footer>
-    &copy; 2025 - Pembelajaran Informatika Kelas X | Dibangun dengan ❤️ dan GitHub Pages
+    &copy; 2025 - Pembelajaran Informatika Kelas X |
   </footer>
 </body>
 </html>
